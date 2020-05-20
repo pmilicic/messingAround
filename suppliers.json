@@ -1,25 +1,29 @@
- {
- 	"data": [{
- 		"date": "1/17/2016",
- 		"supplier": "supplier1",
- 		"total": "$10",
- 		"payment": "Cash",
- 		"product": [
- 			"product1", "product2"
- 		],
- 		"price": [
- 			"$5", "$5"
- 		]
- 	}, {
- 		"date": "2/1/2016",
- 		"supplier": "supplier2",
- 		"total": "$5",
- 		"payment": "Cash",
- 		"product": [
- 			"product1"
- 		],
- 		"price": [
- 			"$5"
- 		]
- 	}]
- }
+{
+	"data": [{
+		"date": "2/1/2016",
+		"supplier": "supplier2",
+		"total": "$5",
+		"payment": "Cash",
+		"product": [
+			"product1"
+		],
+		"price": [
+			"$5"
+		]
+	}, {
+		"date": "1/17/2016",
+		"supplier": "supplier3",
+		"total": "$20",
+		"payment": "Cash",
+		"product": [
+			"product1",
+			"product2",
+			"product3"
+		],
+		"price": [
+			"$5",
+			"$5",
+			"$10"
+		]
+	}]
+}
