@@ -4,7 +4,7 @@
 		"1CCM": "PASSED",
 		"2Deckungen": "PASSED",
 		"3DocumentID": "FAILED",
-		"4Pricing": "FAILED",
+		"4Pricing": "NORESULT",
 		"5HY91 MortgageID": "FAILED",
 		"6Tiger": "FAILED",
 		"error": [
@@ -18,7 +18,7 @@
 		"1CCM": "PASSED",
 		"2Deckungen": "PASSED",
 		"3DocumentID": "PASSED",
-		"4Pricing": "PASSED",
+		"4Pricing": "NORESULT",
 		"5HY91 MortgageID": "PASSED",
 		"6Tiger": "FAILED",
 		"error": [
