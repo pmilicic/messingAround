@@ -1,6 +1,6 @@
  {
  	"data": [{
- 		"date": "1/17/2016",
+ 		"DateAndTime": "1/17/2016",
  		"supplier": "supplier1",
  		"total": "$10",
  		"payment": "Cash",
