@@ -22,7 +22,7 @@
 		"5HY91 MortgageID": "PASSED",
 		"6Tiger": "FAILED",
 		"error": [
-			"Tiger"
+			"Tiger", "CCM"
 		],
 		"errorDetails": [
 			"404"
