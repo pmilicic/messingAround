@@ -17,13 +17,11 @@
 		"payment": "Cash",
 		"product": [
 			"product1",
-			"product2",
-			"product3"
+			"product2"
 		],
 		"price": [
 			"$5",
-			"$5",
-			"$10"
+			"$5"
 		]
 	}]
 }
