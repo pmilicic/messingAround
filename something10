@@ -8,7 +8,7 @@
 		"5HY91 MortgageID": "FAILED",
 		"6Tiger": "FAILED",
 		"errorDetails": [
-			"Service offline", "", "Not Authoritized", "Page not loaded", "Service offline"
+			"Service offline", "", "Not Authoritized because of something that happened", "Page not loaded", "Service offline"
 		]
 	},{
 		"Date": "2/1/2016",
