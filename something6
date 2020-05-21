@@ -7,11 +7,8 @@
 		"4Pricing": "NORESULT",
 		"5HY91 MortgageID": "FAILED",
 		"6Tiger": "FAILED",
-		"error": [
-			"CCM", "Deckungen", "Pricing", "HY91 Mortgage", "Tiger"
-		],
 		"errorDetails": [
-			"Page not loaded", "Service offline", "Not Authoritized", "Page not loaded", "404"
+			" ", " ", "Not Authoritized", "Page not loaded", "Service offline"
 		]
 	},{
 		"Date": "2/1/2016",
@@ -21,11 +18,8 @@
 		"4Pricing": "NORESULT",
 		"5HY91 MortgageID": "PASSED",
 		"6Tiger": "FAILED",
-		"error": [
-			"Tiger", "CCM"
-		],
 		"errorDetails": [
-			"404", "No response", "403", "something"
+			" ", " ", " ", " ", "Service offline"
 		]
 	}
 	]
