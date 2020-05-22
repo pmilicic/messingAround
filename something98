@@ -1,0 +1,27 @@
+{
+  "data": [{
+	"DateAndTime": "19.05.2020 12:28",
+	"1CCM": "Passed",
+	"2Deckungen": "Passed",
+	"3DocumentID": "Passed",
+	"4Pricing": "NoResult",
+	"5HY91 MortgageID": "Passed",
+	"6Tiger": "Passed"
+}, {
+	"DateAndTime": "19.05.2020 11:55",
+	"1CCM": "Passed",
+	"2Deckungen": "Passed",
+	"3DocumentID": "Passed",
+	"4Pricing": "NoResult",
+	"5HY91 MortgageID": "Passed",
+	"6Tiger": "Passed"
+}, {
+	"DateAndTime": "19.05.2020 08:59",
+	"1CCM": "Passed",
+	"2Deckungen": "Passed",
+	"3DocumentID": "Passed",
+	"4Pricing": "NoResult",
+	"5HY91 MortgageID": "Passed",
+	"6Tiger": "Passed"
+}]
+}
