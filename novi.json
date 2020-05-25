@@ -1,0 +1,92 @@
+{
+	"title": "Health Check",
+
+	"content": [{
+		"Date": {
+			"Value": "19.05.2020 12:28",
+			"Description": ""
+		},
+		"1. CCM": {
+			"Value": "Passed",
+			"Description": ""
+		},
+		"2. Deckungen": {
+			"Value": "Passed",
+			"Description": ""
+		},
+		"3. Document ID": {
+			"Value": "Passed",
+			"Description": ""
+		},
+		"4. Pricing": {
+			"Value": "NoResult",
+			"Description": ""
+		},
+		"5. HY91 Mortgage ID": {
+			"Value": "Passed",
+			"Description": ""
+		},
+		"6. Tiger": {
+			"Value": "Passed",
+			"Description": ""
+		}
+	}, {
+		"Date": {
+			"Value": "19.05.2020 11:55",
+			"Description": ""
+		},
+		"1. CCM": {
+			"Value": "Passed",
+			"Description": ""
+		},
+		"2. Deckungen": {
+			"Value": "Passed",
+			"Description": ""
+		},
+		"3. Document ID": {
+			"Value": "Passed",
+			"Description": ""
+		},
+		"4. Pricing": {
+			"Value": "NoResult",
+			"Description": ""
+		},
+		"5. HY91 Mortgage ID": {
+			"Value": "Passed",
+			"Description": ""
+		},
+		"6. Tiger": {
+			"Value": "Passed",
+			"Description": ""
+		}
+	}, {
+		"Date": {
+			"Value": "19.05.2020 08:59",
+			"Description": ""
+		},
+		"1. CCM": {
+			"Value": "Passed",
+			"Description": ""
+		},
+		"2. Deckungen": {
+			"Value": "Passed",
+			"Description": ""
+		},
+		"3. Document ID": {
+			"Value": "Passed",
+			"Description": ""
+		},
+		"4. Pricing": {
+			"Value": "NoResult",
+			"Description": ""
+		},
+		"5. HY91 Mortgage ID": {
+			"Value": "Passed",
+			"Description": ""
+		},
+		"6. Tiger": {
+			"Value": "Passed",
+			"Description": ""
+		}
+	}]
+}
