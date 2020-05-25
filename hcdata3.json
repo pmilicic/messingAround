@@ -8,7 +8,7 @@
 		"5HY91 MortgageID": "Failed",
 		"6Tiger": "Failed",
 		"errorDetails": [
-			"", "", "", "5HY91 MortgageID : Page not loaded", "6Tiger : Service offline"
+			"", "", "", "5 HY91 MortgageID : Page not loaded", "6 Tiger : Service offline"
 		]
 	}, {
 		"DateAndTime": "19.05.2020 11:55",
@@ -30,7 +30,7 @@
 		"5HY91 MortgageID": "Passed",
 		"6Tiger": "Passed",
 		"errorDetails": [
-			"", "", "3DocumentID : Not Authoritized because of something that happened", "", ""
+			"", "", "3 DocumentID : Not Authoritized because of something that happened", "", ""
 		]
 	}, {
 		"DateAndTime": "18.05.2020 16:13",
@@ -41,7 +41,7 @@
 		"5HY91 MortgageID": "Passed",
 		"6Tiger": "Passed",
 		"errorDetails": [
-			"1CCM : Service offline", "", "", "", ""
+			"1 CCM : Service offline", "", "", "", ""
 		]
 	}, {
 		"DateAndTime": "18.05.2020 14:38",
@@ -63,7 +63,7 @@
 		"5HY91 MortgageID": "Failed",
 		"6Tiger": "Passed",
 		"errorDetails": [
-			"", "", "", "5HY91 MortgageID : Page not loaded", ""
+			"", "", "", "5 HY91 MortgageID : Page not loaded", ""
 		]
 	}, {
 		"DateAndTime": "15.05.2020 09:36",
@@ -74,7 +74,7 @@
 		"5HY91 MortgageID": "Failed",
 		"6Tiger": "Failed",
 		"errorDetails": [
-			"1CCM : Service offline", "", "3DocumentID : Not Authoritized because of something that happened", "5HY91 MortgageID : Page not loaded", "6Tiger : Service offline"
+			"1 CCM : Service offline", "", "3 DocumentID : Not Authoritized because of something that happened", "5 HY91 MortgageID : Page not loaded", "6 Tiger : Service offline"
 		]
 	}, {
 		"DateAndTime": "14.05.2020 13:39",
@@ -96,7 +96,7 @@
 		"5HY91 MortgageID": "Failed",
 		"6Tiger": "Passed",
 		"errorDetails": [
-			"1CCM : Service offline", "", "3DocumentID : Not Authoritized because of something that happened", "5HY91 MortgageID : Page not loaded", ""
+			"1 CCM : Service offline", "", "3 DocumentID : Not Authoritized because of something that happened", "5 HY91 MortgageID : Page not loaded", ""
 		]
 	}]
 }
