@@ -4,8 +4,11 @@
 	"2Deckungen": "Passed",
 	"3DocumentID": "Passed",
 	"4Pricing": "NoResult",
-	"5HY91 MortgageID": "Passed",
-	"6Tiger": "Passed"
+	"5HY91 MortgageID": "Failed",
+	"6Tiger": "Failed",
+	"errorDetails": [
+			"", "", "", "5HY91 MortgageID : Page not loaded", "6Tiger : Service offline"
+		]
 }, {
 	"DateAndTime": "19.05.2020 11:55",
 	"1CCM": "Passed",
@@ -13,23 +16,32 @@
 	"3DocumentID": "Passed",
 	"4Pricing": "NoResult",
 	"5HY91 MortgageID": "Passed",
-	"6Tiger": "Passed"
+	"6Tiger": "Passed",
+	"errorDetails": [
+			"", "", "", "", ""
+		]
 }, {
 	"DateAndTime": "19.05.2020 08:59",
 	"1CCM": "Passed",
 	"2Deckungen": "Passed",
-	"3DocumentID": "Passed",
+	"3DocumentID": "Failed",
 	"4Pricing": "NoResult",
 	"5HY91 MortgageID": "Passed",
-	"6Tiger": "Passed"
+	"6Tiger": "Passed",
+	"errorDetails": [
+			"", "", "3DocumentID : Not Authoritized because of something that happened", "", ""
+		]
 }, {
 	"DateAndTime": "18.05.2020 16:13",
-	"1CCM": "Passed",
+	"1CCM": "Failed",
 	"2Deckungen": "Passed",
 	"3DocumentID": "Passed",
 	"4Pricing": "NoResult",
 	"5HY91 MortgageID": "Passed",
-	"6Tiger": "Passed"
+	"6Tiger": "Passed",
+	"errorDetails": [
+			"1CCM : Service offline", "", "", "", ""
+		]
 }, {
 	"DateAndTime": "18.05.2020 14:38",
 	"1CCM": "Passed",
@@ -37,7 +49,10 @@
 	"3DocumentID": "Passed",
 	"4Pricing": "NoResult",
 	"5HY91 MortgageID": "Passed",
-	"6Tiger": "Passed"
+	"6Tiger": "Passed",
+	"errorDetails": [
+			"", "", "", "", ""
+		]
 }, {
 	"DateAndTime": "18.05.2020 12:47",
 	"1CCM": "Passed",
@@ -45,39 +60,21 @@
 	"3DocumentID": "Passed",
 	"4Pricing": "NoResult",
 	"5HY91 MortgageID": "Failed",
-	"6Tiger": "Passed"
-}, {
-	"DateAndTime": "18.05.2020 11:06",
-	"1CCM": "Passed",
-	"2Deckungen": "Passed",
-	"3DocumentID": "Passed",
-	"4Pricing": "NoResult",
-	"5HY91 MortgageID": "Passed",
-	"6Tiger": "Passed"
-}, {
-	"DateAndTime": "18.05.2020 08:39",
-	"1CCM": "Passed",
-	"2Deckungen": "Passed",
-	"3DocumentID": "Passed",
-	"4Pricing": "NoResult",
-	"5HY91 MortgageID": "Passed",
-	"6Tiger": "Passed"
-}, {
-	"DateAndTime": "15.05.2020 13:43",
-	"1CCM": "Passed",
-	"2Deckungen": "Passed",
-	"3DocumentID": "Passed",
-	"4Pricing": "NoResult",
-	"5HY91 MortgageID": "Passed",
-	"6Tiger": "Passed"
-}, {
+	"6Tiger": "Passed",
+	"errorDetails": [
+			"", "", "", "5HY91 MortgageID : Page not loaded", ""
+		]
+},  {
 	"DateAndTime": "15.05.2020 09:36",
-	"1CCM": "Passed",
+	"1CCM": "Failed",
 	"2Deckungen": "Passed",
-	"3DocumentID": "Passed",
+	"3DocumentID": "Failed",
 	"4Pricing": "NoResult",
-	"5HY91 MortgageID": "Passed",
-	"6Tiger": "Passed"
+	"5HY91 MortgageID": "Failed",
+	"6Tiger": "Failed",
+	"errorDetails": [
+			"1CCM : Service offline", "", "3DocumentID : Not Authoritized because of something that happened", "5HY91 MortgageID : Page not loaded", "6Tiger : Service offline"
+		]
 }, {
 	"DateAndTime": "14.05.2020 13:39",
 	"1CCM": "Passed",
@@ -85,7 +82,10 @@
 	"3DocumentID": "Passed",
 	"4Pricing": "NoResult",
 	"5HY91 MortgageID": "Passed",
-	"6Tiger": "Passed"
+	"6Tiger": "Passed",
+	"errorDetails": [
+			"", "", "", "", ""
+		]
 }, {
 	"DateAndTime": "14.05.2020 12:14",
 	"1CCM": "Failed",
@@ -93,5 +93,8 @@
 	"3DocumentID": "Failed",
 	"4Pricing": "NoResult",
 	"5HY91 MortgageID": "Failed",
-	"6Tiger": "Passed"
+	"6Tiger": "Passed",
+	"errorDetails": [
+			"1CCM : Service offline", "", "3DocumentID : Not Authoritized because of something that happened", "5HY91 MortgageID : Page not loaded", ""
+		]
 }]
