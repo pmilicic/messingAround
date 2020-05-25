@@ -1,6 +1,6 @@
 {
 	"data": [{
-		"Date": "3/1/2016",
+		"DateAndTime": "3/1/2016",
 		"1CCM": "FAILED",
 		"2Deckungen": "PASSED",
 		"3DocumentID": "FAILED",
@@ -11,7 +11,7 @@
 			"1CCM : Service offline", "", "3DocumentID : Not Authoritized because of something that happened", "5HY91 MortgageID : Page not loaded", "6Tiger : Service offline"
 		]
 	},{
-		"Date": "2/1/2016",
+		"DateAndTime": "2/1/2016",
 		"1CCM": "PASSED",
 		"2Deckungen": "PASSED",
 		"3DocumentID": "PASSED",
