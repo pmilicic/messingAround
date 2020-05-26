@@ -11,7 +11,7 @@
 		"6. Tiger"
 	],
 	"values": [
-		[{
+		{
 			"Date": "19.05.2020 12:28",
 			"1CCM": "Passed",
 			"2Deckungen": "Passed",
@@ -19,17 +19,6 @@
 			"4Pricing": "NoResult",
 			"5HY91 Mortgage ID": "Passed",
 			"6Tiger": "Passed"
-		}]
-	],
-	"descriptions": [
-		[{
-			"Date": "N/A",
-			"d1CCM": "N/A",
-			"d2Deckungen": "N/A",
-			"d3Document ID": "N/A",
-			"d4Pricing": "N/A",
-			"d5HY91 Mortgage ID": "N/A",
-			"d6Tiger": "N/A"
-		}]
+		}
 	]
 }
