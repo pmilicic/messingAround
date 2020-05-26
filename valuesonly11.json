@@ -13,17 +13,17 @@
 	"values": 
 		[{
 			"Date": "19.05.2020 12:28",
-			"CCM": "Passed",
+			"CCM": "Failed",
 			"Deckungen": "Passed",
 			"Document ID": "Passed",
-			"Pricing": "NoResult",
+			"Pricing": "Failed",
 			"HY91 Mortgage ID": "Passed",
 			"Tiger": "Passed"
 		}, {
 			"Date": "19.05.2020 11:55",
 			"CCM": "Passed",
 			"Deckungen": "Passed",
-			"Document ID": "Passed",
+			"Document ID": "Failed",
 			"Pricing": "NoResult",
 			"HY91 Mortgage ID": "Passed",
 			"Tiger": "Passed"
@@ -34,7 +34,7 @@
 			"Document ID": "Passed",
 			"Pricing": "NoResult",
 			"HY91 Mortgage ID": "Passed",
-			"Tiger": "Passed"
+			"Tiger": "Failed"
 		}
 	],
 	"descriptions":
