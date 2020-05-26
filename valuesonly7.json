@@ -1,5 +1,4 @@
-{
-	"title": "Health Check",
+{"title": "Health Check",
 
 	"columns": [
 		"Date",
@@ -10,7 +9,7 @@
 		"5. HY91 Mortgage ID",
 		"6. Tiger"
 	],
-	"values": [
+	"values": 
 		[{
 			"Date": "19.05.2020 12:28",
 			"CCM": "Passed",
@@ -19,15 +18,15 @@
 			"Pricing": "NoResult",
 			"HY91 Mortgage ID": "Passed",
 			"Tiger": "Failed"
-		}],
-		[{
+		},
+		{
 			"Date": "19.05.2020 12:28",
 			"CCM": "Passed",
 			"Deckungen": "Passed",
 			"Document ID": "Passed",
 			"Pricing": "NoResult",
 			"HY91 Mortgage ID": "Passed",
-			"Tiger": "Failed"
+			"Tiger": "Passed"
 		}]
-	]
+	
 }
