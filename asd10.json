@@ -23,13 +23,13 @@
 	],
 	"descriptions": [
 		[{
-			"Date": "N/A",
-			"CCM": "N/A",
-			"Deckungen": "N/A",
-			"Document ID": "N/A",
-			"Pricing": "N/A",
-			"HY91 Mortgage ID": "N/A",
-			"Tiger": "N/A"
+			"dDate": "N/A",
+			"dCCM": "N/A",
+			"dDeckungen": "N/A",
+			"dDocument ID": "N/A",
+			"dPricing": "N/A",
+			"dHY91 Mortgage ID": "N/A",
+			"dTiger": "N/A"
 		}]
 	]
 }
