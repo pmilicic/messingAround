@@ -1,0 +1,67 @@
+{
+	"title": "Health Check",
+
+	"columns": [
+		"Date",
+		"1. CCM",
+		"2. Deckungen",
+		"3. Document ID",
+		"4. Pricing",
+		"5. HY91 Mortgage ID",
+		"6. Tiger"
+	],
+	"values": 
+		[{
+			"Date": "19.05.2020 12:28",
+			"1. CCM": "Failed",
+			"2. Deckungen": "Passed",
+			"3. Document ID": "Passed",
+			"4. Pricing": "Failed",
+			"5. HY91 Mortgage ID": "Passed",
+			"6. Tiger": "Passed"
+		}, {
+			"Date": "19.05.2020 11:55",
+			"1. CCM": "Passed",
+			"2. Deckungen": "Failed",
+			"3. Document ID": "Passed",
+			"4. Pricing": "Failed",
+			"5. HY91 Mortgage ID": "Passed",
+			"6. Tiger": "Passed"
+		}, {
+			"Date": "19.05.2020 08:59",
+			"1. CCM": "Passed",
+			"2. Deckungen": "Failed",
+			"3. Document ID": "Passed",
+			"4. Pricing": "NoResult",
+			"5. HY91 Mortgage ID": "Passed",
+			"6. Tiger": "Passed"
+		}
+	],
+	"descriptions":
+		[{
+			"Date": "prvi",
+			"1. CCM": "prvi",
+			"2. Deckungen": "N/A",
+			"3. Document ID": "N/A",
+			"4. Pricing": "N/A",
+			"5. HY91 Mortgage ID": "N/A",
+			"6. Tiger": "N/A"
+		}, {
+			"Date": "drugi",
+			"1. CCM": "drugi",
+			"2. Deckungen": "N/A",
+			"3. Document ID": "N/A",
+			"4. Pricing": "N/A",
+			"5. HY91 Mortgage ID": "N/A",
+			"6. Tiger": "N/A"
+		}, {
+			"Date": "treci",
+			"1. CCM": "treci",
+			"2. Deckungen": "N/A",
+			"3. Document ID": "N/A",
+			"4. Pricing": "N/A",
+			"5. HY91 Mortgage ID": "N/A",
+			"6. Tiger": "N/A"
+		}
+	]
+}
